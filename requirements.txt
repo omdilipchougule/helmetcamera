@@ -1,0 +1,6 @@
+# Install all dependencies with:
+#   pip install -r requirements.txt
+
+ultralytics>=8.0.0        # YOLOv8 — model auto-downloads (~6MB) on first run
+opencv-python>=4.8.0      # Video reading, frame processing, preview window
+fpdf2>=2.7.0              # PDF report generation
